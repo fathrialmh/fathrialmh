@@ -1,6 +1,6 @@
 I made this document to help anyone, who will work or connect with me, to know me much better.
 ## Resume/CV
-* [PDF]()
+* [CV](https://github.com/fathrialmh/cv/blob/main/Resume-Fathrial%20Muhamad.pdf)
 * [LinkedIn](https://www.linkedin.com/in/fathrialmuhamad/)
 
 ## About Me
